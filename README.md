@@ -20,7 +20,7 @@ This utilizes the bands in town api and outputs the following
    - The name of the venue
    - The venue location
    - The event Date
-   ####*To utilize this in the command terminal enter node liri-node-app concert-this "Your artist choice here"
+   ####To utilize this in the command terminal enter node liri-node-app concert-this "Your artist choice here"
 
 
 ## spotify-this-song
@@ -29,7 +29,7 @@ This utilizes the Spotify API and outputs the following
    - The song name
    - A preview link of the song from Spotify
    - The song album
-####*To utilize this in the command terminal enter node liri-node-app spotify-this-song "Your song choice here"
+####To utilize this in the command terminal enter node liri-node-app spotify-this-song "Your song choice here"
 
 ## movie-this
 This utilizes the OMDB API and outputs the following
@@ -41,11 +41,11 @@ This utilizes the OMDB API and outputs the following
    - The Language of the movie.
    - The Plot of the movie.
    - The Actors in the movie.
-  ####*To utilize this in the command terminal enter node liri-node-app movie-this "Your movie choice here"
+  ####To utilize this in the command terminal enter node liri-node-app movie-this "Your movie choice here"
   
   ## do-what-it-says
   This shows song information for song "I want it that way"
-  ####*To utilize this in the command terminal enter node liri-node-app do-what-it-says
+  ####To utilize this in the command terminal enter node liri-node-app do-what-it-says
  
  
 
