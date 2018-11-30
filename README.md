@@ -25,7 +25,7 @@ This utilizes the bands in town api and outputs the following
 #### To utilize this in the command terminal enter node liri-node-app concert-this "Your artist choice here"
 See example below
 
-![Alt text](images/concert-this.jpg?raw=true "concert-this")
+![Concert-this example](/images/concert-this.jpg?raw=true "concert-this example")
 
 
 ## spotify-this-song
