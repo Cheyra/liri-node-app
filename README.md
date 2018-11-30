@@ -36,6 +36,9 @@ This utilizes the Spotify API and outputs the following
    - The song album
 
 #### To utilize this in the command terminal enter node liri-node-app spotify-this-song "Your song choice here"
+See example below
+
+![Spotify-this-song example](images/spotify-this-song.PNG?raw=true "spotify-this-song example")
 
 ## movie-this
 This utilizes the OMDB API and outputs the following
@@ -49,11 +52,17 @@ This utilizes the OMDB API and outputs the following
    - The Actors in the movie.
  
 #### To utilize this in the command terminal enter node liri-node-app movie-this "Your movie choice here"
+See example below
+
+![Movie-this example](images/movie-this.PNG?raw=true "movie-this example")
   
   ## do-what-it-says
   This shows song information for song "I want it that way"
   
  #### To utilize this in the command terminal enter node liri-node-app do-what-it-says
+ See example below
+
+![Do-what-it-says example](images/do-what-it-says.PNG?raw=true "do-what-it-says example")
  
  
 
