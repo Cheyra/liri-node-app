@@ -23,6 +23,9 @@ This utilizes the bands in town api and outputs the following
    - The event Date
    
 #### To utilize this in the command terminal enter node liri-node-app concert-this "Your artist choice here"
+See example below
+
+![Alt text](/relative/path/to/img.jpg?raw=true "concert-this"
 
 
 ## spotify-this-song
