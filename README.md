@@ -22,7 +22,7 @@ This utilizes the bands in town api and outputs the following
    - The venue location
    - The event Date
    
-   *To utilize this in the command terminal enter node liri-node-app concert-this "Your artist choice here"
+#### To utilize this in the command terminal enter node liri-node-app concert-this "Your artist choice here"
 
 
 ## spotify-this-song
